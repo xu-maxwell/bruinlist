@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Home - Bruinlist</title>
+  <title>All Users - Bruinlist</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome Icons -->
@@ -27,7 +27,7 @@
 
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-  <a class="navbar-brand" href="../index.html">Bruinlist</a>
+  <a class="navbar-brand" href="../index.html"><img src="../bruinlistlogo.png" alt="Bruinlist Logo" width="150" height="30"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -55,14 +55,36 @@
     <div class="col-md-8">
       <!-- Forum Threads -->
       <h2>All Users</h2>
+      <div class="input-group mb-3">
+        <input id="searchInput" type="text" class="form-control" placeholder="Search users">
+        <div class="input-group-append">
+          <button id="searchButton" class="btn btn-outline-secondary" type="button">
+            <i class="fas fa-search"></i> Search
+          </button>
+          
+        </div>
+      </div>
+
+        <div class="card">
+          <div class="card-header">
+            User Profile
+          </div>
+          <div class="card-body" id="userProfile">
+            <!-- User profile information will be displayed here -->
+          </div>
+        </div>
+
       <div class="list-group" id="userList">
 
-      </div>
-    </div>
+  </div>
+</div>
 
 
   </div>
 </div>
+
+
+
 
 <script src="../js/firebase.js"></script>
 <script src="../js/profile.js"></script>
@@ -70,5 +92,6 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </body>
 </html>
