@@ -15,7 +15,7 @@ After the user posts content, the content of the post will be uploaded to our da
 Users can utilize our search bar to search through the posts on the website and narrow it down to what the user may wish to see. This data will be retrieved and queried from our database. Searching properties may include keywords and associated tags within the post content. 
 
 ### User Authentication
-To use the platform, users must create an account, verify their email, and log in to the platform. Each post is publically associated with a user.
+To use the platform, users must create an account, verify their email, and log in to the platform. Each post is publicly associated with a user.
 
 ### Liking and Disliking Posts
 Users can like and comment on posts based on their reactions to the content
