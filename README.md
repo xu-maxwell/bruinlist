@@ -1,4 +1,6 @@
 # Bruinlist
+![alt text](https://bruinlist.netlify.app/bruinlistlogo.png)
+
 ## Description
 CS 35L Final Project, Winter 2024
 Bruinlist is a centralized discussion platform that aims to serve the Bruin community.
