@@ -5,8 +5,8 @@ CS 35L Final Project, Winter 2024. Made by Sierra Stevenson, Jiho Shin, Maxwell 
 Bruinlist is a centralized discussion platform that aims to serve the Bruin community. <br>
 
 <ul>
-<li> GitHub Repository: https://github.com/xu-maxwell/bruinlist </li>
-<li> Slide deck: https://docs.google.com/presentation/d/1DP4Pvm_Lg11yO7-_Ty9jvUIrWHNe8zwCzWGvFoTMVpg/edit?usp=sharing </li>
+<li> GitHub Repository: https://github.com/xu-maxwell/bruinlist</li>
+<li> Slide deck: https://bit.ly/bruinlist-presentation</li>
 <li> Video Presentation: </li>
 </ul>
 
