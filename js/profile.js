@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function () {
         userElement.innerHTML = `
             <div class="d-flex justify-content-between align-items-center">
                 <div>
-                    <h5 class="mb-1">${String(user.Email).substring(0, String(user.email).indexOf('@')}</h5>
+                    <h5 class="mb-1">${user.Email}</h5>
                 </div>
                 <div>
                     <button class="btn btn-primary follow-btn" data-user-id="${user.uid}">Upvote</button>
