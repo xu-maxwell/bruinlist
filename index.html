@@ -13,6 +13,19 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" alt="Loading">
     </div>
 
+    <script>
+        // Create a script element for firebase.js
+        var firebaseScript = document.createElement('script');
+        firebaseScript.src = './js/firebase.js';
+
+        // Error event listener
+        firebaseScript.onerror = function() {
+            alert('Cannot find firebase.js');
+        };
+
+        // Append the script element to the head to start loading it
+        document.body.appendChild(firebaseScript);
+    </script>
     <script src="./js/firebase.js"></script>
     <script src="./js/loader.js"></script>
 </body>
