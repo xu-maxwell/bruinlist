@@ -23,7 +23,7 @@ Users can utilize our search bar to search through the posts on the website and 
 ### User Authentication
 To use the platform, users must create an account, verify their email, and log in to the platform. Each post is publicly associated with a user.
 
-### Liking and Disliking Posts
+### Liking and Commenting on Posts
 Users can like and comment on posts based on their reactions to the content.
 
 ### User Profiles
