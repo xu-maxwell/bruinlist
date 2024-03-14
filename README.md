@@ -1,5 +1,4 @@
-# Bruinlist
-<img src="https://bruinlist.netlify.app/bruinlistlogo.png" alt="Bruinlist Logo" width="200"/>
+# <img src="https://bruinlist.netlify.app/bruinlistlogo.png" alt="Bruinlist Logo" width="200"/>
 
 ## Description
 CS 35L Final Project, Winter 2024
