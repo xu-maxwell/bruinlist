@@ -18,7 +18,7 @@ Users can utilize our search bar to search through the posts on the website and 
 To use the platform, users must create an account, verify their email, and log in to the platform. Each post is publicly associated with a user.
 
 ### Liking and Disliking Posts
-Users can like and comment on posts based on their reactions to the content
+Users can like and comment on posts based on their reactions to the content.
 
 ### User Profiles
 Users can visit a list of all user profiles and query through them. Users can also elect to "upvote" profiles as many times as they wish.
