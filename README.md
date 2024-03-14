@@ -1,8 +1,8 @@
 # <img src="https://bruinlist.netlify.app/bruinlistlogo.png" alt="Bruinlist Logo" width="200"/>
 
 ## Description
-CS 35L Final Project, Winter 2024 <br>
-Bruinlist is a centralized discussion platform that aims to serve the Bruin community.
+CS 35L Final Project, Winter 2024. Made by Sierra Stevenson, Jiho Shin, Maxwell Xu, and Wren Xu. <br>
+Bruinlist is a centralized discussion platform that aims to serve the Bruin community. 
 
 ## Features
 ### Dynamic Data
