@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/authentication.css">
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-database.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-firestore.js"></script>
+    <title>Login and Signup - Bruinlist</title>
+</head>
+<body>
+    <!-- <div class="topnav">
+        <a class="active" href="../index.html">Bruinlist</a>
+        <a href="authentication.html" id="loginTab">Login</a>
+        <a href="authentication.html" id="signupTab">Sign Up</a>
+    </div> -->
+    <div class="container">
+        <div class="form-container">
+            <form class="login-form" id="loginForm">
+                <h2>Login</h2>
+                <label for="loginEmail">Email:</label>
+                <input type="text" id="loginEmail" name="loginEmail" required>
+
+                <label for="loginPassword">Password:</label>
+                <input type="password" id="loginPassword" name="loginPassword" required>
+                <p id="messageLogin"></p>
+                <button type="submit">Login</button>
+            </form>
+
+            <form class="signup-form" id="signupForm">
+                <h2>Sign Up</h2>
+                <label for="signupEmail">Email:</label>
+                <input type="text" id="signupEmail" name="signupEmail" required>
+
+                <label for="signupPassword">Password:</label>
+                <input type="password" id="signupPassword" name="signupPassword" required>
+
+                <label for="confirmPassword">Confirm Password:</label>
+                <input type="password" id="confirmPassword" name="confirmPassword" required>
+                <p id="message"></p>
+                <button type="submit">Sign Up</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="../js/authentication.js"></script>
+    <script src="../js/firebase.js"></script>
+</body>
+</html>
