@@ -33,7 +33,7 @@ function createpost() {
         posttitle: posttitle.value,
         postvalue: postvalue.value,
         like: [],
-        user: String(currentuser.email).substring(0, String(currentuser.email).indexOf('@')),
+        user: currentuser.email,
         comments: [],
         Date: `${d}`
       })
