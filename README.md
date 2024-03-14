@@ -7,7 +7,7 @@ Bruinlist is a centralized discussion platform that aims to serve the Bruin comm
 <ul>
 <li> GitHub Repository: https://github.com/xu-maxwell/bruinlist</li>
 <li> Slide deck: https://bit.ly/bruinlist-presentation</li>
-<li> Video Presentation: </li>
+<li> Video Presentation: https://www.youtube.com/watch?v=zua9254rSI8</li>
 </ul>
 
 ## Features
