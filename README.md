@@ -42,4 +42,4 @@ const firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 ```
 
-Course Grader: replace the key values with the information we provided. Afterward, open the html directory in the project folder and drag and drop the index.html file to Google Chrome.
+Course Grader: replace the key values with the information we provided. Afterward, open the ```html``` directory in the project folder and drag and drop the ```index.html``` file to Google Chrome.
