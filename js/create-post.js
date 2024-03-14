@@ -32,8 +32,7 @@ function createpost() {
       .add({
         posttitle: posttitle.value,
         postvalue: postvalue.value,
-        like: 0,
-        dislikes: 0,
+        like: [],
         user: String(currentuser.email).substring(0, String(currentuser.email).indexOf('@')),
         comments: [],
         Date: `${d}`
