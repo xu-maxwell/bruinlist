@@ -26,7 +26,7 @@ Users can visit a list of all user profiles and query through them. Users can al
 ## Running the Application
 The project has been hosted online using Netlify. The simple way of running and testing the project is going to https://bruinlist.netlify.app. 
 
-To run the project locally, clone the project to your local machine. Inside the js directory of the project folder, add a file ```firebase.js```. In the file, copy in the contents of the Javascript object provided. It should look like this:
+To run the project locally, clone the project to your local machine. Inside the ```js``` directory of the project folder, add a file ```firebase.js```. In the file, copy in the contents of the JavaScript object provided. It should look like this:
 ```
 const firebaseConfig = {
     apiKey: "",
